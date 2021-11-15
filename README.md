@@ -13,6 +13,7 @@ Here is a sample of what the data looks like:
 |  4 |    28 | Private          |   338409 | Bachelors   |              13 | Married-civ-spouse | Prof-specialty    | Wife           | Black  | Female |              0 |              0 |               40 | Cuba             | <=50K    |
 
 
+
 ## Using Pandas, the following questions are answered:
 
 * How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (`race` column)
@@ -25,11 +26,13 @@ Here is a sample of what the data looks like:
 * What country has the highest percentage of people that earn >50K and what is that percentage?
 * Identify the most popular occupation for those who earn >50K in India. 
 
+
 ## 🤝 Support
 
 Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
+
 
 ### Dataset Source
 
